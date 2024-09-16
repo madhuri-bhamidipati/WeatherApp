@@ -1,2 +1,3 @@
-# WeatherApp
-Deploying a new app which gives weather updates
+# Weather-app
+
+A Weather tracking web application built using pure Vanilla Javascript.
